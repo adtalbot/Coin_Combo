@@ -18,6 +18,5 @@ class Fixnum
     pennies = change_a[3]
 
     "Your change is: #{quarters} quarters, #{dimes} dimes, #{nickels} nickels, #{pennies} pennies."
-    #change_a
   end
 end
